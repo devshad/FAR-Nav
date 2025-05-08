@@ -1,2 +1,2 @@
-# Far_Nav
+# FAR-Nav
 AR Campus Navigator for DIU ICE Department
